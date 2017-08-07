@@ -1,3 +1,4 @@
+//1.直接的方法
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
@@ -15,4 +16,24 @@ public:
                 }
         return result;
     } 
+};
+
+//2.哈希表
+class Solution {
+public:
+    vector<int> twoSum(vector<int>& nums, int target) {
+        map<int, int> hash;
+        vector<int> result(2, 0);
+        for(int i = 0; i < nums.size(); i ++)
+        {
+            if(hash.find(target - nums[i]) != hash.end())
+            {
+                result[0] = hash[target - nums[i]];
+                result[1] = i;
+                return result;
+            }
+            hash[nums[i]] = i;
+        }
+        return result;
+    }
 };
