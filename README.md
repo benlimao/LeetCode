@@ -1,6 +1,4 @@
-# LeetCode
-
-# Tags
+# LeetCode Tags
 
 ## LinkedList
 ### Easy
@@ -8,5 +6,8 @@
 + #237 Delete Node in a Linked List
 ### Medium
 + #328 Odd Even Linked List 
+
+## Bit Manipulation
+### Easy
 + #461 Hamming Distance
 
