@@ -1,5 +1,8 @@
 # LeetCode Tags
 
+## Array
++ [#1 Two Sum](https://github.com/benlimao/LeetCode/blob/master/LeetCode/1.Two%20Sum.cpp)
+
 ## LinkedList
 ### Easy
 + [#83 Remove Duplicates from Sorted List](https://github.com/benlimao/LeetCode/blob/master/LeetCode/83.%20Remove%20Duplicates%20from%20Sorted%20List.cpp)
