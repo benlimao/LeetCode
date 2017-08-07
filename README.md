@@ -2,8 +2,7 @@
 
 ## LinkedList
 ### Easy
-+ #83 Remove Duplicates from Sorted List
-https://github.com/benlimao/LeetCode/blob/master/LeetCode/83.%20Remove%20Duplicates%20from%20Sorted%20List.cpp
++ [#83 Remove Duplicates from Sorted List](https://github.com/benlimao/LeetCode/blob/master/LeetCode/83.%20Remove%20Duplicates%20from%20Sorted%20List.cpp)
 + #237 Delete Node in a Linked List
 https://github.com/benlimao/LeetCode/blob/master/LeetCode/237.%20Delete%20Node%20in%20a%20Linked%20List.cpp
 ### Medium
