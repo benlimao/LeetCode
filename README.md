@@ -1,6 +1,7 @@
 # LeetCode Tags
 
 ## Array
+### Easy
 + [#1 Two Sum](https://github.com/benlimao/LeetCode/blob/master/LeetCode/1.Two%20Sum.cpp)
 
 ## LinkedList
