@@ -20,5 +20,7 @@
 ## Dynamic Programming
 ### Easy
 + [#198 House Robber](https://github.com/benlimao/LeetCode/blob/master/LeetCode/198.%20House%20Robber.cpp)
+### Medium
++ [#062 Unique Paths](https://github.com/benlimao/LeetCode/blob/master/LeetCode/062.%20Unique%20Paths.cpp)
 
 
