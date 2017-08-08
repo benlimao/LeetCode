@@ -14,6 +14,7 @@
 
 ## Bit Manipulation
 ### Easy
++ [#024 Swap Nodes in Pairs](https://github.com/benlimao/LeetCode/blob/master/LeetCode/024.%20Swap%20Nodes%20in%20Pairs.cpp)
 + [#461 Hamming Distance](https://github.com/benlimao/LeetCode/blob/master/LeetCode/461.%20Hamming%20Distance.cpp)
 
 
