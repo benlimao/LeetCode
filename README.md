@@ -17,4 +17,8 @@
 ### Easy
 + [#461 Hamming Distance](https://github.com/benlimao/LeetCode/blob/master/LeetCode/461.%20Hamming%20Distance.cpp)
 
+## Dynamic Programming
+### Easy
++ [#198 House Robber](https://github.com/benlimao/LeetCode/blob/master/LeetCode/198.%20House%20Robber.cpp)
+
 
