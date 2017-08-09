@@ -14,6 +14,10 @@
 + [#024 Swap Nodes in Pairs](https://github.com/benlimao/LeetCode/blob/master/LeetCode/024.%20Swap%20Nodes%20in%20Pairs.cpp)
 + [#328 Odd Even Linked List](https://github.com/benlimao/LeetCode/blob/master/LeetCode/328.%20Odd%20Even%20Linked%20List.cpp)
 
+## Tree
+### Medium
++ [#105 Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/benlimao/LeetCode/blob/master/LeetCode/105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.cpp)
+
 ## Bit Manipulation
 ### Easy
 + [#461 Hamming Distance](https://github.com/benlimao/LeetCode/blob/master/LeetCode/461.%20Hamming%20Distance.cpp)
