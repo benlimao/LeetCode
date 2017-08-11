@@ -40,6 +40,7 @@
 + [#198 House Robber](https://github.com/benlimao/LeetCode/blob/master/LeetCode/198.%20House%20Robber.cpp)
 ### Medium
 + [#062 Unique Paths](https://github.com/benlimao/LeetCode/blob/master/LeetCode/062.%20Unique%20Paths.cpp)
++ [#413 Arithmetic Slices](https://github.com/benlimao/LeetCode/blob/master/LeetCode/413.%20Arithmetic%20Slices.cpp)
 + [#646 Maximum Length of Pair Chain](https://github.com/benlimao/LeetCode/blob/master/LeetCode/646.%20Maximum%20Length%20of%20Pair%20Chain.cpp)
 
 
