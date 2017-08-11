@@ -20,8 +20,18 @@ public:
 
 //2.从Discuss得到的思路
 /*
-*/
-
+For example: if player 1 get A, player 2 get B, we can use dp' to store A-B.
+if A = dp(i, j), then B = sum(i, j) - dp(i, j)
+So dp'(i, j) = dp(i, j) - ( sum(i, j) - dp(i, j) ) = 2*dp(i, j) - sum(i, j), so
+2*dp(i, j) = dp'(i, j) + sum(i, j) (this will be used below)
+dp'(i, j) = dp(i, j) - ( sum(i, j) - dp(i, j) ) = 2dp(i, j) - sum(i, j)
+          = 2 * max( sum(i, j) - dp(i, j-1), sum(i, j) - dp(i+1, j) ) - sum(i, j)
+          = max(sum(i, j) - 2*dp(i, j-1), sum(i, j) - 2*dp(i+1, j) )
+          = max(sum(i, j) - ( dp'(i, j-1) + sum(i, j-1) ), sum(i, j) - ( dp'(i+1, j) + sum(i+1, j)))
+          = max(sum(i, j) - sum(i, j-1) - dp'(i, j-1), sum(i, j) - sum(i+1, j) - dp'(i+1, j))
+          = max(nums[j] - dp'(i, j-1), nums[i] - dp'(i+1, j))
+Final formula: dp(i, j) = max(nums[j] - dp(i, j-1), nums[i] - dp(i+1, j))
+ */
 class Solution {
 public:
     bool PredictTheWinner(vector<int>& nums) {
