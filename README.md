@@ -41,6 +41,7 @@
 ### Medium
 + [#062 Unique Paths](https://github.com/benlimao/LeetCode/blob/master/LeetCode/062.%20Unique%20Paths.cpp)
 + [#413 Arithmetic Slices](https://github.com/benlimao/LeetCode/blob/master/LeetCode/413.%20Arithmetic%20Slices.cpp)
++ [#486 Predict the Winner](https://github.com/benlimao/LeetCode/blob/master/LeetCode/486.%20Predict%20the%20Winner.cpp)
 + [#646 Maximum Length of Pair Chain](https://github.com/benlimao/LeetCode/blob/master/LeetCode/646.%20Maximum%20Length%20of%20Pair%20Chain.cpp)
 
 
