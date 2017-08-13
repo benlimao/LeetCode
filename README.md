@@ -3,6 +3,7 @@
 ## Array
 ### Easy
 + [#001 Two Sum](https://github.com/benlimao/LeetCode/blob/master/LeetCode/001.Two%20Sum.cpp)
++ [#035 Search Insert Position](https://github.com/benlimao/LeetCode/blob/master/LeetCode/035.%20Search%20Insert%20Position.cpp)
 + [#283 Move Zeroes](https://github.com/benlimao/LeetCode/blob/master/LeetCode/283.%20Move%20Zeroes.cpp)
 ### Medium
 + [#078 Subsets](https://github.com/benlimao/LeetCode/blob/master/LeetCode/078.%20Subsets.cpp)
