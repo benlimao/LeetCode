@@ -23,6 +23,7 @@
 ## Tree
 ### Easy
 + [#100 Same Tree](https://github.com/benlimao/LeetCode/blob/master/LeetCode/100.%20Same%20Tree.cpp)  
++ [#226 Invert Binary Tree](https://github.com/benlimao/LeetCode/blob/master/LeetCode/226.%20Invert%20Binary%20Tree.cpp)
 ### Medium
 + [#094 Binary Tree Inorder Traversal](https://github.com/benlimao/LeetCode/blob/master/LeetCode/094.Binary%20Tree%20Inorder%20Traversal.cpp)
 + [#105 Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/benlimao/LeetCode/blob/master/LeetCode/105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.cpp)
