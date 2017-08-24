@@ -7,6 +7,7 @@
 + [#066 Plus One](https://github.com/benlimao/LeetCode/blob/master/LeetCode/066.%20Plus%20One.cpp)
 + [#283 Move Zeroes](https://github.com/benlimao/LeetCode/blob/master/LeetCode/283.%20Move%20Zeroes.cpp)
 ### Medium
++ [#034 Search for a Range](https://github.com/benlimao/LeetCode/blob/master/LeetCode/034.%20Search%20for%20a%20Range.cpp)
 + [#078 Subsets](https://github.com/benlimao/LeetCode/blob/master/LeetCode/078.%20Subsets.cpp)
 
 ## LinkedList
