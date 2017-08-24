@@ -17,7 +17,7 @@ public:
         }
         grayCode(n-1, res);
         int size = res.size()-1;
-        for (int i = size; i >= 0; --i) {
+        for (int i = size; i >= 0; i--) {
             int num = res[i] | (1<<(n-1));
             res.push_back(num);
         }
