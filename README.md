@@ -35,9 +35,9 @@
 ### Hard
 + [#145 Binary Tree Postorder Traversal](https://github.com/benlimao/LeetCode/blob/master/LeetCode/145.%20Binary%20Tree%20Postorder%20Traversal.cpp)
 
-## Bit Manipulation
-### Easy
-+ [#461 Hamming Distance](https://github.com/benlimao/LeetCode/blob/master/LeetCode/461.%20Hamming%20Distance.cpp)
+## Backtracking
+### Medium
++ [# 089 Gray Code](https://github.com/benlimao/LeetCode/blob/master/LeetCode/089.%20Gray%20Code.cpp)
 
 ## Dynamic Programming
 ### Easy
@@ -49,5 +49,9 @@
 + [#413 Arithmetic Slices](https://github.com/benlimao/LeetCode/blob/master/LeetCode/413.%20Arithmetic%20Slices.cpp)
 + [#486 Predict the Winner](https://github.com/benlimao/LeetCode/blob/master/LeetCode/486.%20Predict%20the%20Winner.cpp)
 + [#646 Maximum Length of Pair Chain](https://github.com/benlimao/LeetCode/blob/master/LeetCode/646.%20Maximum%20Length%20of%20Pair%20Chain.cpp)
+
+## Bit Manipulation
+### Easy
++ [#461 Hamming Distance](https://github.com/benlimao/LeetCode/blob/master/LeetCode/461.%20Hamming%20Distance.cpp)
 
 
