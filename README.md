@@ -5,6 +5,7 @@
 + [#001 Two Sum](https://github.com/benlimao/LeetCode/blob/master/LeetCode/001.Two%20Sum.cpp)
 + [#035 Search Insert Position](https://github.com/benlimao/LeetCode/blob/master/LeetCode/035.%20Search%20Insert%20Position.cpp)
 + [#066 Plus One](https://github.com/benlimao/LeetCode/blob/master/LeetCode/066.%20Plus%20One.cpp)
++ [#215 Kth Largest Element in an Array](https://github.com/benlimao/LeetCode/blob/master/LeetCode/215.%20Kth%20Largest%20Element%20in%20an%20Array.cpp)
 + [#283 Move Zeroes](https://github.com/benlimao/LeetCode/blob/master/LeetCode/283.%20Move%20Zeroes.cpp)
 ### Medium
 + [#034 Search for a Range](https://github.com/benlimao/LeetCode/blob/master/LeetCode/034.%20Search%20for%20a%20Range.cpp)
