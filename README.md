@@ -11,6 +11,7 @@
 ### Medium
 + [#034 Search for a Range](https://github.com/benlimao/LeetCode/blob/master/LeetCode/034.%20Search%20for%20a%20Range.cpp)
 + [#078 Subsets](https://github.com/benlimao/LeetCode/blob/master/LeetCode/078.%20Subsets.cpp)
++ [#088 Merge Sorted Array](https://github.com/benlimao/LeetCode/blob/master/LeetCode/088.%20Merge%20Sorted%20Array.cpp)
 
 ## LinkedList
 ### Easy
