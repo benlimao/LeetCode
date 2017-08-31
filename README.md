@@ -39,9 +39,13 @@
 ### Hard
 + [#145 Binary Tree Postorder Traversal](https://github.com/benlimao/LeetCode/blob/master/LeetCode/145.%20Binary%20Tree%20Postorder%20Traversal.cpp)
 
+## Stack and Queue
+### Easy
++ [#232 Implement Queue using Stacks](https://github.com/benlimao/LeetCode/blob/master/LeetCode/232.%20Implement%20Queue%20using%20Stacks.cpp)
+
 ## Backtracking
 ### Medium
-+ [# 089 Gray Code](https://github.com/benlimao/LeetCode/blob/master/LeetCode/089.%20Gray%20Code.cpp)
++ [#089 Gray Code](https://github.com/benlimao/LeetCode/blob/master/LeetCode/089.%20Gray%20Code.cpp)
 
 ## Dynamic Programming
 ### Easy
