@@ -11,7 +11,6 @@ public:
     ListNode* reverseList(ListNode* head) {
         if(NULL == head || NULL == head->next)
             return head;
-        
         ListNode* p1 = head;
         ListNode* p2 = head->next;
         ListNode* p3 = head->next->next;
