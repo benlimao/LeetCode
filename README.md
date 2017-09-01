@@ -45,6 +45,7 @@
 
 ## Stack and Queue
 ### Easy
++ [#155 Min Stack](https://github.com/benlimao/LeetCode/blob/master/LeetCode/155.%20Min%20Stack.cpp)
 + [#225 Implement Stack using Queues](https://github.com/benlimao/LeetCode/blob/master/LeetCode/225.%20Implement%20Stack%20using%20Queues.cpp)
 + [#232 Implement Queue using Stacks](https://github.com/benlimao/LeetCode/blob/master/LeetCode/232.%20Implement%20Queue%20using%20Stacks.cpp)
 
