@@ -31,6 +31,7 @@
 ## Tree
 ### Easy
 + [#100 Same Tree](https://github.com/benlimao/LeetCode/blob/master/LeetCode/100.%20Same%20Tree.cpp)  
++ [#112 Path Sum](https://github.com/benlimao/LeetCode/blob/master/LeetCode/112.%20Path%20Sum.cpp)
 + [#226 Invert Binary Tree](https://github.com/benlimao/LeetCode/blob/master/LeetCode/226.%20Invert%20Binary%20Tree.cpp)
 ### Medium
 + [#094 Binary Tree Inorder Traversal](https://github.com/benlimao/LeetCode/blob/master/LeetCode/094.Binary%20Tree%20Inorder%20Traversal.cpp)
