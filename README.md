@@ -10,6 +10,7 @@
 + [#605 Can Place Flowers](https://github.com/benlimao/LeetCode/blob/master/LeetCode/605.%20Can%20Place%20Flowers.cpp)
 ### Medium
 + [#034 Search for a Range](https://github.com/benlimao/LeetCode/blob/master/LeetCode/034.%20Search%20for%20a%20Range.cpp)
++ [#054 Spiral Matrix](https://github.com/benlimao/LeetCode/blob/master/LeetCode/054.%20Spiral%20Matrix.cpp)
 + [#074 Search a 2D Matrix](https://github.com/benlimao/LeetCode/blob/master/LeetCode/074.%20Search%20a%202D%20Matrix.cpp)
 + [#078 Subsets](https://github.com/benlimao/LeetCode/blob/master/LeetCode/078.%20Subsets.cpp)
 + [#088 Merge Sorted Array](https://github.com/benlimao/LeetCode/blob/master/LeetCode/088.%20Merge%20Sorted%20Array.cpp)
