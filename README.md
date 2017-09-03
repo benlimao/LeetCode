@@ -50,6 +50,10 @@
 + [#225 Implement Stack using Queues](https://github.com/benlimao/LeetCode/blob/master/LeetCode/225.%20Implement%20Stack%20using%20Queues.cpp)
 + [#232 Implement Queue using Stacks](https://github.com/benlimao/LeetCode/blob/master/LeetCode/232.%20Implement%20Queue%20using%20Stacks.cpp)
 
+## String
+### Easy
++ [#020 Valid Parentheses](https://github.com/benlimao/LeetCode/blob/master/LeetCode/020.%20Valid%20Parentheses.cpp)
+
 ## Backtracking
 ### Medium
 + [#089 Gray Code](https://github.com/benlimao/LeetCode/blob/master/LeetCode/089.%20Gray%20Code.cpp)
