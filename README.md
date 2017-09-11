@@ -3,6 +3,7 @@
 ## Array
 ### Easy
 + [#001 Two Sum](https://github.com/benlimao/LeetCode/blob/master/LeetCode/001.Two%20Sum.cpp)
++ [#026 Remove Duplicates from Sorted Array](https://github.com/benlimao/LeetCode/blob/master/LeetCode/026.%20Remove%20Duplicates%20from%20Sorted%20Array.cpp)
 + [#035 Search Insert Position](https://github.com/benlimao/LeetCode/blob/master/LeetCode/035.%20Search%20Insert%20Position.cpp)
 + [#066 Plus One](https://github.com/benlimao/LeetCode/blob/master/LeetCode/066.%20Plus%20One.cpp)
 + [#215 Kth Largest Element in an Array](https://github.com/benlimao/LeetCode/blob/master/LeetCode/215.%20Kth%20Largest%20Element%20in%20an%20Array.cpp)
