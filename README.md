@@ -6,6 +6,7 @@
 + [#026 Remove Duplicates from Sorted Array](https://github.com/benlimao/LeetCode/blob/master/LeetCode/026.%20Remove%20Duplicates%20from%20Sorted%20Array.cpp)
 + [#035 Search Insert Position](https://github.com/benlimao/LeetCode/blob/master/LeetCode/035.%20Search%20Insert%20Position.cpp)
 + [#066 Plus One](https://github.com/benlimao/LeetCode/blob/master/LeetCode/066.%20Plus%20One.cpp)
++ [#169 Majority Element](https://github.com/benlimao/LeetCode/blob/master/LeetCode/169.%20Majority%20Element.cpp)
 + [#215 Kth Largest Element in an Array](https://github.com/benlimao/LeetCode/blob/master/LeetCode/215.%20Kth%20Largest%20Element%20in%20an%20Array.cpp)
 + [#283 Move Zeroes](https://github.com/benlimao/LeetCode/blob/master/LeetCode/283.%20Move%20Zeroes.cpp)
 + [#605 Can Place Flowers](https://github.com/benlimao/LeetCode/blob/master/LeetCode/605.%20Can%20Place%20Flowers.cpp)
